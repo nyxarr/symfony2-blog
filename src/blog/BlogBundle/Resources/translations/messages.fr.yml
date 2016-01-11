@@ -1,0 +1,4 @@
+hello: Bonjour %name% !
+Bye: 'Au revoir'
+article:
+    nombre: "Il y a %count% article|]1,+Inf]Il y a %count% articles"
